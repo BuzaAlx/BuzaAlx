@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BuzaAlx and i'm Kitesurfing and ski instructor with hobby of codding.
-- 👀 I’m interested in codding and learning new technologies that can make our life easier.
+- 👀 I’m interested in codding and learning new technologies that can make our lives easier.
 - 🔊 languages: English intermediate/upper-intermediate , Polish/Ukrainian/Russian/ - fluent.
 - 🌱 Technology stack :  
 HTML5 ,CSS (SCSS,bootstrap,material-UI,styled-components),  

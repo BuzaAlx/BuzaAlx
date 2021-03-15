@@ -5,12 +5,8 @@
 HTML5 ,CSS (SCSS,bootstrap,material-UI,styled-components),  
 JavaScript (ES6+),  
 React (with hooks) + Redux(as state manager) + Redux Thunk / Redux Saga for async requests,  
-GraphQL (apollo-server/apollo-client),REST
-Node.js (express),  
-basics knowlege of SQL/NoSQL databases in particular MySQL,MongoDB,  
-MERN stack
-
-trying to follow best practices solutions
+GraphQL (apollo-server/apollo-client),
+basics knowlege of SQL/NoSQL databases in particular MySQL,MongoDB,
 
 - 📫 How to reach me ...
 

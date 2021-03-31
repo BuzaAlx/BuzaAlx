@@ -7,7 +7,7 @@ JavaScript (ES6+),
 React (with hooks) + Redux(as state manager) + Redux Thunk / Redux Saga,
 GraphQL (apollo-server/apollo-client),
 +
-basics knowlege of MySQL,MongoDB,
+basics knowlege of MySQL,MongoDB, TypeScript
 
 - 📫 How to reach me ...
 

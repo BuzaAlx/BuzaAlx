@@ -2,11 +2,12 @@
 - 👀 I’m interested in codding and learning new technologies that can make our lives easier.
 - 🔊 languages: English intermediate/upper-intermediate , Polish/Ukrainian/Russian/ - fluent.
 - 🌱 Technology stack :  
-HTML5 ,CSS (SCSS,bootstrap,material-UI,styled-components),  
+HTML5 ,CSS (SCSS,bootstrap,),  
 JavaScript (ES6+),  
-React (with hooks) + Redux(as state manager) + Redux Thunk / Redux Saga for async requests,  
+React (with hooks) + Redux(as state manager) + Redux Thunk / Redux Saga,
 GraphQL (apollo-server/apollo-client),
-basics knowlege of SQL/NoSQL databases in particular MySQL,MongoDB,
++
+basics knowlege of MySQL,MongoDB,
 
 - 📫 How to reach me ...
 
